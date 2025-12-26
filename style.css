@@ -69,13 +69,12 @@ nav a:hover {
 }
 
 .hero img {
-    max-width: 886px;
-    width: 100%;
+    width: 489px;
 }
 
 .hero-text {
     position: absolute;
-    right: 25%;
+    right: 18%;
     top: 50%;
     transform: translateY(-50%);
     font-size: 30px;
